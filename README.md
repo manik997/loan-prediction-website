@@ -1,16 +1,5 @@
 # LoanApplication_Prediction
 
----
-If you like this project don't forget to star⭐⭐⭐ it.
----
-
-
-This is application demo of the Datathon form Dphi Machine Learning Bootcamp as Advanced Track [LINK](https://dphi.tech/bootcamps/machine-learning-online-bootcamp/)
-
-![Dphi Bootcamp](https://github.com/ayoub-berdeddouch/LoanApplication_Prediction/blob/main/dphi_bc_advanced.PNG)
-
-
-[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
 
 # Demo
@@ -88,4 +77,4 @@ Here the target column is deliberately not there as you need to predict it.
 
 # Licence 
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 2020
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 2023
